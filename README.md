@@ -1,6 +1,8 @@
 # regtest
 Regression Test for Funnel Plot Asymmetry Use regtest With (In) R Software
 
+https://www.youtube.com/watch?v=LeVMY9yN-Jg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
